@@ -12,3 +12,11 @@ Quantum circuit: [link](https://en.wikipedia.org/wiki/Quantum_circuit)
 Quantum logic gates built in: [link](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 
 Tensor product and Tensor product spaces: [link](https://en.wikipedia.org/wiki/Tensor_product)
+
+## Example circuit 
+
+Below is an example circuit that could be constructed, which would produce the quantum probabilities of each qubit in each state.
+
+e0---[I]---[H]---|CNOT|---[H]---(e0)
+e0---[X]---[H]---|CNOT|---[H]---z
+
