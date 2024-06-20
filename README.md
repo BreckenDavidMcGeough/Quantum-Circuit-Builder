@@ -18,5 +18,6 @@ Tensor product and Tensor product spaces: [link](https://en.wikipedia.org/wiki/T
 Below is an example circuit that could be constructed, which would produce the quantum probabilities of each qubit in each state.
 
 e0---[I]---[H]---|CNOT|---[H]---(e0)
+
 e0---[X]---[H]---|CNOT|---[H]---z
 
